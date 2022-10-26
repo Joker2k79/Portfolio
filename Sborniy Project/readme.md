@@ -1,18 +1,20 @@
 # Выявление закономерностей коммерчески успешных игр
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/SQL%20Project/final_project_sql.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/SQL%20Project/final_project_sql.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project/fabricated_project_1.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project/fabricated_project_1.ipynb)
 
 ## Описание проекта
 
-Проанализировать базу данных, которая содержит информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг.
+Интернет-магазине «Стримчик» продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
 ## Навыки и инструменты
 
-- **python**
 - **pandas**
-- **sqlalchemy**
+- **numpy**
+- **matplotlib**
+- **seaborn**
+- **scipy**
 
 ##
 
 ## Общий вывод
-Необходимые данные из БД извлечены, ответы на поставленные вопросы получены.
+
 
