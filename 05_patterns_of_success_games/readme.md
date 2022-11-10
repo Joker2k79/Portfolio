@@ -1,5 +1,5 @@
 # Выявление закономерностей коммерческого успеха игр
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project/fabricated_project_1.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project/fabricated_project_1.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/05_patterns_of_success_games/fabricated_project_1.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/05_patterns_of_success_games/fabricated_project_1.ipynb)
 
 ## Описание проекта
 
