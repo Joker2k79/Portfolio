@@ -1,5 +1,5 @@
 #  Определение выгодного тарифа для телеком компании
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/03_analysis_real_estate_market/real_estate.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/03_analysis_real_estate_market/real_estate.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/04_profitable_telecom_tariff/telecom_tariff.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/04_profitable_telecom_tariff/telecom_tariff.ipynb)
 
 ## Описание проекта
 Федеральный оператор сотовой связи предлагает клиентам два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.
