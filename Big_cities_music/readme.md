@@ -1,5 +1,5 @@
 # Исследование данных сервиса “Яндекс.Музыка”
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Final%20Project/final_project.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Final%20Project/final_project.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Big_cities_music/yandex_music.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Big_cities_music/yandex_music.ipynb)
 
 ## Описание проекта
 
