@@ -1,5 +1,5 @@
 # Анализ убытков приложения ProcrastinatePRO+
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/05_patterns_of_success_games/fabricated_project_1.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/05_patterns_of_success_games/fabricated_project_1.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/06_application_loss_analysis/application_pro.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/06_application_loss_analysis/application_pro.ipynb)
 
 ## Описание проекта
 Вы — маркетинговый аналитик развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Задача — разобраться в причинах и помочь компании выйти в плюс.
