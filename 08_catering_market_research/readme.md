@@ -1,5 +1,5 @@
 # Исследования рынка общепита в Москве для открытии нового заведения
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/07_analysis_ab_test_results/a_b_test.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/07_analysis_ab_test_results/a_b_test.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/08_catering_market_research/catering.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/08_catering_market_research/catering.ipynb)
 
 ## Описание проекта
 Принято решение открыть небольшое кафе в Москве. Оно оригинальное — гостей должны обслуживать роботы. Проект многообещающий, но дорогой. Вместе с партнёрами вы решились обратиться к инвесторам. Их интересует текущее положение дел на рынке — сможете ли вы снискать популярность на долгое время, когда все зеваки насмотрятся на роботов-официантов?
