@@ -1,5 +1,5 @@
 # Определение неэффективных операторов колл-центров
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Final%20Project/final_project.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Final%20Project/final_project.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/11_graduation_project/final_project.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/11_graduation_project/final_project.ipynb)
 
 ## Описание проекта
 
