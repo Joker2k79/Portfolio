@@ -1,5 +1,5 @@
 # Анализ базы данных с помощью SQL
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/SQL%20Project/final_project_sql.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/SQL%20Project/final_project_sql.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/12_sql_project/final_project_sql.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/12_sql_project/final_project_sql.ipynb)
 
 ## Описание проекта
 
