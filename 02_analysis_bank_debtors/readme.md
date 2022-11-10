@@ -1,5 +1,5 @@
 # Исследование надёжности заёмщиков — анализ банковских данных”
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Analysis_bank_debtors/reliable_debtor.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Analysis_bank_debtors/reliable_debtor.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/02_analysis_bank_debtors/reliable_debtor.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/02_analysis_bank_debtors/reliable_debtor.ipynb)
 
 ## Описание проекта
 Необходимо проанализировать, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга, которая оценивает способность потенциального заёмщика вернуть кредит банку.
