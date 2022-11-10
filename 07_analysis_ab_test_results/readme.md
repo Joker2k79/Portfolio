@@ -1,5 +1,5 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине через результаты A/B теста
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/06_application_loss_analysis/application_pro.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/06_application_loss_analysis/application_pro.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/07_analysis_ab_test_results/a_b_test.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/07_analysis_ab_test_results/a_b_test.ipynb)
 
 ## Описание проекта
 Вместе с отделом маркетинга крупного интернет-магазина мы подготовили список гипотез для увеличения выручки. Приоритизируйте гипотезы, запустите A/B-тест и проанализируйте результаты.
