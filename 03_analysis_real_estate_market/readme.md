@@ -1,5 +1,5 @@
 #  Анализ рынка недвижимости Санкт-Петербурга
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/02_analysis_bank_debtors/reliable_debtor.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/02_analysis_bank_debtors/reliable_debtor.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/03_analysis_real_estate_market/real_estate.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/03_analysis_real_estate_market/real_estate.ipynb)
 
 ## Описание проекта
 В нашем распоряжении данные сервиса Яндекс Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктах за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Задача — установить параметры, это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
