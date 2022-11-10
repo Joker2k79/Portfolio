@@ -1,5 +1,5 @@
 # Анализ пользовательского поведения в мобильном приложении
-[HTML](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project%202/fabricated_project_2.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/Sborniy%20Project%202/fabricated_project_2.ipynb)
+[HTML](https://github.com/Joker2k79/Portfolio/blob/main/09_analysis_behavior_mobile_app/fabricated_project_2.html) [ipynb](https://github.com/Joker2k79/Portfolio/blob/main/09_analysis_behavior_mobile_app/fabricated_project_2.ipynb)
 
 ## Описание проекта
 
